@@ -10,5 +10,5 @@ TC39 Incubator Call Agendas
 - [May 26](./2020/05-26.md)
 - [June 16](./2020/06-16.md)
 - [June 30](./2020/06-30.md)
-- [July 17](./2020/07-17.md)
+- [July 16](./2020/07-17.md)
 </details>

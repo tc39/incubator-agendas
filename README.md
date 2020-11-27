@@ -17,5 +17,5 @@ TC39 Incubator Call Agendas
 - [October 6](./2020/10-06.md) ([notes](./notes/2020/10-06.md))
 - [October 21](./2020/10-21.md) ([notes](./notes/2020/10-21.md))
 - [November 2](./2020/11-02.md) ([notes](./notes/2020/11-02.md))
-- [December 1](./2020/12-01.md)
+- [December 3](./2020/12-03.md)
 </details>

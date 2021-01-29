@@ -1,7 +1,7 @@
 TC39 Incubator Call Agendas
 ===========================
 
-<details open>
+<details>
 <summary>2020</summary>
   
 - [April 14](./2020/04-14.md) ([notes](./notes/2020/04-14.md))
@@ -19,5 +19,12 @@ TC39 Incubator Call Agendas
 - [November 2](./2020/11-02.md) ([notes](./notes/2020/11-02.md))
 - [December 3](./2020/12-03.md) ([notes](./notes/2020/12-03.md))
 - [December 14](./2020/12-14.md) ([notes](./notes/2020/12-14.md))
+
+</details>
+
+<details open>
+<summary>2021</summary>
+
+- [February 8](./2021/02-08.md)
 
 </details>

@@ -25,6 +25,6 @@ TC39 Incubator Call Agendas
 <details open>
 <summary>2021</summary>
 
-- [February 8](./2021/02-08.md)
+- [February 8](./2021/02-08.md) ([notes](./notes/2021/02-08.md))
 
 </details>

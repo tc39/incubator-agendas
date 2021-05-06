@@ -29,6 +29,6 @@ TC39 Incubator Call Agendas
 - [February 25](./2021/02-25.md) ([notes](./notes/2021/02-25.md))
 - [April 2](./2021/04-02.md) ([notes](./notes/2021/04-02.md))
 - [April 8](./2021/04-08.md) ([notes](./notes/2021/04-08.md))
-- [April 29](./2021/04-29.md)
+- [April 29](./2021/04-29.md) ([notes](./notes/2021/04-29.md))
 
 </details>

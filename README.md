@@ -32,5 +32,6 @@ TC39 Incubator Call Agendas
 - [April 29](./2021/04-29.md) ([notes](./notes/2021/04-29.md))
 - [May 13](./2021/05-13.md) ([notes](./notes/2021/05-13.md))
 - [June 17](./2021/06-17.md) ([notes](./notes/2021/06-17.md))
+- [August 2](./2021/08-02.md) ([notes](./notes/2021/08-02.md))
 
 </details>

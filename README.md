@@ -32,6 +32,7 @@ TC39 Incubator Call Agendas
 - [April 29](./2021/04-29.md) ([notes](./notes/2021/04-29.md))
 - [May 13](./2021/05-13.md) ([notes](./notes/2021/05-13.md))
 - [June 17](./2021/06-17.md) ([notes](./notes/2021/06-17.md))
-- [August 2](./2021/08-02.md) ([notes](./notes/2021/08-02.md))
+- [August 4 (Pattern matching)](./2021/08-04.md) ([notes](./notes/2021/08-04.md))
+- [August 25 (ArrayBuffer to/fromBase64)](./2021/08-25.md) ([notes](./notes/2021/08-25.md))
 
 </details>

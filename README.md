@@ -35,5 +35,6 @@ TC39 Incubator Call Agendas
 - [August 4 (Pattern matching)](./2021/08-04.md) ([notes](./notes/2021/08-04.md))
 - [August 25 (ArrayBuffer to/fromBase64)](./2021/08-25.md) ([notes](./notes/2021/08-25.md))
 - [September 23 (WebAssembly/JS interop)](./2021/09-23.md) ([notes](./notes/2021/09-23.md))
+- [November 15 (Pipe bikeshedding)](./2021/11-15.md) ([notes](./notes/2021/11-15.md))
 
 </details>

@@ -22,7 +22,7 @@ TC39 Incubator Call Agendas
 
 </details>
 
-<details open>
+<details>
 <summary>2021</summary>
 
 - [February 8](./2021/02-08.md) ([notes](./notes/2021/02-08.md))
@@ -36,5 +36,12 @@ TC39 Incubator Call Agendas
 - [August 25 (ArrayBuffer to/fromBase64)](./2021/08-25.md) ([notes](./notes/2021/08-25.md))
 - [September 23 (WebAssembly/JS interop)](./2021/09-23.md) ([notes](./notes/2021/09-23.md))
 - [November 15 (Pipe bikeshedding)](./2021/11-15.md) ([notes](./notes/2021/11-15.md))
+
+</details>
+
+<details open>
+<summary>2022</summary>
+
+- January 27 post-plenary ad hoc ([notes](./notes/2022/01-27.md))
 
 </details>

@@ -43,5 +43,6 @@ TC39 Incubator Call Agendas
 <summary>2022</summary>
 
 - January 27 post-plenary ad hoc ([notes](./notes/2022/01-27.md))
+- [March 8 (Function helper functions)](./2022/03-08.md) ([notes](./notes/2022/03-08.md))
 
 </details>

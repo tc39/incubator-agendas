@@ -44,5 +44,6 @@ TC39 Incubator Call Agendas
 
 - January 27 post-plenary ad hoc ([notes](./notes/2022/01-27.md))
 - [March 8 (Function helper functions)](./2022/03-08.md) ([notes](./notes/2022/03-08.md))
+- [May 6 (BigInt math)](./2022/05-06.md) ([notes](./notes/2022/05-06.md))
 
 </details>

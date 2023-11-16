@@ -1,6 +1,13 @@
 TC39 Incubator Call Agendas
 ===========================
 
+<details open>
+<summary>2023</summary>
+
+- [October 25 (Intl.MessageFormat)](./2023/10-25.md) ([notes](./notes/2023/10-25.md))
+
+</details>
+
 <details>
 <summary>2022</summary>
 
